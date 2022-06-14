@@ -1,6 +1,6 @@
-### Why "QuantumTea"? 
+# Why "QuantumTea"? 
 
-## My first love was physics, and I'm English-American (a naturalised US citizen), so my blood group is tea. Hot, black tea with milk (sweetener optional depending on stress level)
+### My first love was physics, and I'm English-American (a naturalised US citizen), so my blood group is tea. Hot, black tea with milk (sweetener optional depending on stress level)
 
 - 🌱 I’m currently learning data science with a Master's degree at [Maryville University](https://www.maryville.edu/)
 - 😄 Pronouns: She/Her
