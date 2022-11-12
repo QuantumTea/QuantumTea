@@ -5,9 +5,8 @@
 - 🌱 I’m currently learning data science with a Master's degree at [Maryville University](https://www.maryville.edu/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a karate black belt
-- 📫 How to reach me: try <a rel="me" href="https://hachyderm.io/@britishkoalatea">Mastodon</a>
 
-Languages range from Java and C# to JavaScript, R, and Python, with a little Elixir for fun.
+Languages are Java and C# to JavaScript, R, and Python, with a little Elixir for fun.
 
 <!--
 **QuantumTea/QuantumTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
